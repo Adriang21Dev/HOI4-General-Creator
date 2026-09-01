@@ -26,4 +26,4 @@ El código fuente de este proyecto está disponible públicamente en este reposi
 
 ## Licencia
 
-Pendiente de definir.
+Distribuido bajo la licencia GPL-3.0. Consulta el archivo `LICENSE` para obtener más información.
